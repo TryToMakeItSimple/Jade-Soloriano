@@ -20,6 +20,12 @@ function Projects() {
             h3='Track Me'
             p='Expense Tracker'
             />
+             <ProjectCard 
+            src={music}
+            link='https://github.com/TryToMakeItSimple/clickandlisten'
+            h3='clickandlisten'
+            p='Mp3 Player'
+            />
         </div>
     </section>
   );
