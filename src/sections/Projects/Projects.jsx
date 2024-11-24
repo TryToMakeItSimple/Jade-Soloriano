@@ -2,6 +2,7 @@ import styles from './ProjectsStyles.module.css';
 import travel from '../../assets/travel.png';
 import expenseTracker from '../../assets/expenseTracker.png';
 import ProjectCard from '../../common/ProjectCard';
+import music from '../../assets/mp3.png';
 
 function Projects() {
   return (
